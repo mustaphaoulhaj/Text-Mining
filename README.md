@@ -70,7 +70,7 @@ La tokenisation du texte est une technique visant à diviser le texte en unités
 
 Plusieurs modèles de machine learning sont couramment utilisés, tels que les SVM (Support Vector Machines), les classificateurs bayésiens naïfs, les réseaux de neurones récurrents (RNN) et XGBoost.
 
-## LDA (Latent Dirichlet Allocation) : A nalyse des sujets des textes
+## LDA (Latent Dirichlet Allocation) : Analyse des sujets des textes
 
 LDA est un modèle probabiliste qui attribue des sujets à des documents et des mots à des sujets, permettant ainsi d'identifier les thèmes sous-jacents dans un ensemble de documents.
 
